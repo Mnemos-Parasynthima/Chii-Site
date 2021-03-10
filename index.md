@@ -1,4 +1,3 @@
 ---
-title: Chii
 layout: default
 ---
