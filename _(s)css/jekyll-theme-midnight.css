@@ -253,7 +253,7 @@ section #title p {
 	text-align: center;
 }
 
-section #title .credits {
+section #footer .credits {
 	font-size: 11px;
 	font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight: normal;
@@ -261,28 +261,28 @@ section #title .credits {
 	margin-top: -10px;
 }
 
-section #title .credits.left {
+section #footer .credits.left {
 	float: left;
 }
 
-section #title .credits.right {
+section #footer .credits.right {
 	float: right;
 }
 
 @media print, screen and (max-width: 720px) {
-	#title .credits {
+	#footer .credits {
 		display: block;
 		width: 100%;
 		line-height: 30px;
 		text-align: center;
 	}
 
-	#title .credits .left {
+	#footer .credits .left {
 		float: none;
 		display: block;
 	}
 
-	#title .credits .right {
+	#footer .credits .right {
 		float: none;
 		display: block;
 	}
