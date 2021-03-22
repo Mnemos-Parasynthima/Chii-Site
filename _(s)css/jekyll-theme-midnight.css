@@ -186,11 +186,11 @@ dt {
 
 #header nav li a {
 	color: white;
-	border: 1px solid #5d910b;
-	background: linear-gradient(#93bd20, #659e10);
+	border: 1px solid #cd4846;
+	background: linear-gradient(#d03d2f, #7b0f19);
 	border-radius: 2px;
 	box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.3), 0px 3px 7px rgba(0, 0, 0, 0.7);
-	background-color: #93bd20;
+	background-color: #d03d2f;
 	padding: 10px 12px;
 	margin-top: 6px;
 	line-height: 14px;
@@ -200,9 +200,9 @@ dt {
 }
 
 #header nav li a:hover {
-	background: linear-gradient(#749619, #527f0e);
-	background-color: #659e10;
-	border: 1px solid #527f0e;
+	background: linear-gradient(#c63a2d, #6d0d16);
+	background-color: #c63a2d;
+	border: 1px solid #ca3b39;
 	box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.2), 0px 1px 0px transparent;
 }
 
